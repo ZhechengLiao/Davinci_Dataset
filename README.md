@@ -8,8 +8,8 @@ As we all know, Leonardo Da Vinci was a talented scientists in lots of areas, su
 ## ToDo
 - [x] Physics
 - [x] Math
-- [] Art
-- [] Philosiphy
+- [ ] Art
+- [ ] Philosiphy
 
 ## Dateset Preview
 ```
