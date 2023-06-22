@@ -2,6 +2,7 @@
 <p align='center'>
 <img src='Davinci.png' width=200>
 <p>
+  
 ## Introduction
 As we all know, Leonardo Da Vinci was a talented scientists in lots of areas, such as physics, math, art, and etc. I'd like to build a pretrained GPT model like Davinci to help human accelerate basic science like physics and math. This is the dataset for the GPT model.
 
